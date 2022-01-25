@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohd.Rahat Bin Abdullah Omi
-- 👀 I’m interested in technology
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning Computer Science and Engineering
 - 💞️ I’m looking to collaborate on other content github
 - 📫 How to reach me Email: rahatomi123@gmail.com
