@@ -4,7 +4,7 @@
 <!-- <img align="right" alt="Coding" width="400" src=""> -->
 <br/>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahat-bin-abdullah-omi&label=Profile%20views&color=0e75b6&style=flat" alt="rahatbinabdullah" /> </p> -->
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahat-bin-abdullah-omi&label=Profile%20views&color=0e75b6&style=flat" alt="rahatbinabdullah" /> </p> 
 
 - 🌱 I’m currently learning **MongoDB, Express, Node**
 
