@@ -1,11 +1,10 @@
 [![MasterHead](https://i.ibb.co/DKqLWN7/git-Banner1.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mohd. Rahat Bin Abdullah</h1>
 <h3 align="center">A passionate MERN developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="">
+<!-- <img align="right" alt="Coding" width="400" src=""> -->
+<br/>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahat-bin-abdullah-omi&label=Profile%20views&color=0e75b6&style=flat" alt="rahatbinabdullah" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahat-bin-abdullah-omi&label=Profile%20views&color=0e75b6&style=flat" alt="rahatbinabdullah" /> </p> -->
 
 - 🌱 I’m currently learning **MongoDB, Express, Node**
 
@@ -33,4 +32,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahat-bin-abdullah-omi&" alt="rahatbinabdullah" /></p>
 
-<p><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahat-bin-abdullah-omi&show_icons=true&locale=en&layout=compact" alt="rahatbinabdullah" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahat-bin-abdullah-omi&show_icons=true&locale=en&layout=compact" alt="rahatbinabdullah" /></p>
