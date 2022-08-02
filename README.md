@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MongoDB, Express, Node**
 
-- 👨‍💻 All of my projects are available at [portfolio]()
+- 👨‍💻 All of my projects are available at [portfolio](https://portfolio-f7749.web.app/)
 
 - 💬 Ask me about **MERN**
 
