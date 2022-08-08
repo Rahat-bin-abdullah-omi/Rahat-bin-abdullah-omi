@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/0KQvp6H/MERN-stack.png)](https://rishavchanda.io/)
+[![MasterHead](https://i.ibb.co/LZvtkGF/MERN-stack.jpg)](https://rishavchanda.io/)
 <h1 align="center">Hi 👋, I'm Mohd. Rahat Bin Abdullah</h1>
 <h3 align="center">A passionate MERN developer from Bangladesh</h3>
 <!-- <img align="right" alt="Coding" width="400" src=""> -->
